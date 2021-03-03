@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Main/Main.fsproj": {}
+  },
+  "projects": {
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj",
+        "projectName": "Converter",
+        "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj",
+        "packagesPath": "/Users/NicFisker/.nuget/packages/",
+        "outputPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/NicFisker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj": {
+                "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Main/Main.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Main/Main.fsproj",
+        "projectName": "Main",
+        "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Main/Main.fsproj",
+        "packagesPath": "/Users/NicFisker/.nuget/packages/",
+        "outputPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Main/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/NicFisker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj": {
+                "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj"
+              },
+              "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj": {
+                "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj",
+        "projectName": "Parser",
+        "projectPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj",
+        "packagesPath": "/Users/NicFisker/.nuget/packages/",
+        "outputPath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/NicFisker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FParsec": {
+              "target": "Package",
+              "version": "[1.1.1, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

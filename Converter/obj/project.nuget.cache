@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAAs+ypm65o2taH/aZHEHTpk0vjZN5qd3TTGEmxUIinMv72lj48mk3mA3hK1q9kM+RhjB0LqJyNJOgjf/EopFQ==",
+  "success": true,
+  "projectFilePath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Converter/Converter.fsproj",
+  "expectedPackageFiles": [
+    "/Users/NicFisker/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/Users/NicFisker/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

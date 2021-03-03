@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDqdxMoOswCUB6ShpDIznkm75qScCGN9GY3MrduH3VNcO0SIGbkv1vs36bpDQk5lhXE/xpLWU3COXnKrKWEcWw==",
+  "success": true,
+  "projectFilePath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser/Parser/Parser.fsproj",
+  "expectedPackageFiles": [
+    "/Users/NicFisker/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/Users/NicFisker/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

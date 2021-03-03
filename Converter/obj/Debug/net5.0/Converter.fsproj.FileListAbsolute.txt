@@ -1,0 +1,11 @@
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/bin/Debug/net5.0/Converter.deps.json
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/bin/Debug/net5.0/Converter.dll
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/bin/Debug/net5.0/Converter.pdb
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/bin/Debug/net5.0/Parser.dll
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/bin/Debug/net5.0/Parser.pdb
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.fsprojAssemblyReference.cache
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.AssemblyInfoInputs.cache
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.AssemblyInfo.fs
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.fsproj.CopyComplete
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.dll
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 1/ringtone-parser-nicfre/Converter/obj/Debug/net5.0/Converter.pdb
